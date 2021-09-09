@@ -15,7 +15,7 @@
 * Now run the application, it will get live at http://localhost:9090/
 
 ## Note:-
-* One will not be able to proceed with transaction having a phone number of India as PayPal doesn't support Indian Transactions
+* One will not be able to proceed the transaction having a phone number registered with India as PayPal doesn't support Indian Transactions
 
 ## Related Screenshots!
 
