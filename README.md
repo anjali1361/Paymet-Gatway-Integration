@@ -11,7 +11,8 @@
 * create a developer account on PayPal
 * create two sandbox account, one for buisness and one for personal in US region
 * create an app using the buisness account created above
-* paste your Clien-ID & Secret-ID of the cabove created app in application-properties under the directed variable
+* paste your Clien-ID & Secret-ID of the above created app in application-properties under the directed variable
+* Now run the application, it will get live at http://localhost:9090/
 
 ## Related Screenshots!
 
